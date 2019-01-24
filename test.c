@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <time.h>
-#include <stdlib.h>
 #include "max_product.h"
 
 void print_array(int *arr, int size){
